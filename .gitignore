@@ -1,0 +1,7 @@
+data/
+*.csv
+*.csv.gz
+*.zip
+.salt
+__pycache__/
+.venv/
